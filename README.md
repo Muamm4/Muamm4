@@ -1,11 +1,15 @@
+# Hi... I'm Murilo  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
+
+I'm a backend developer specialized in PHP, with a deep passion for Machine Learning, especially Neural Networks. My curiosity and interest drive me to continuously explore new techniques and algorithms, always striving to improve my skills and knowledge in this fascinating field.
+
+Currently, I am intensely dedicated to studying Cybersecurity. I am deepening my knowledge in cryptography, vulnerability analysis, and penetration testing to become a well-rounded specialist. Additionally, I enjoy applying my Machine Learning skills to develop innovative and secure solutions.
+
+In my free time, I like to tackle challenging problems on platforms like LeetCode and HackerRank, and I'm starting to participate in CTF competitions. This combination of interests and skills allows me to create robust and secure solutions, always with an eye for innovation and technical excellence.
+
 ### Social media: 📡    
 Join me on Telegram, where I share insights, victories, and even the occasional setback. 
 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/muriloamaciel)
-
-
-
-
 
 ## Languages and Tools 
 <div>
@@ -13,7 +17,7 @@ Join me on Telegram, where I share insights, victories, and even the occasional 
 ### Languages:
 | Python3 | PHP | JS | 
 |----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="PHP"  alt="PHP" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP"  alt="PHP" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |
   
 
 ### Best frameworks and main libraries for Python3:
@@ -46,8 +50,14 @@ Join me on Telegram, where I share insights, victories, and even the occasional 
 |----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Linux" alt="Linux" width="55" height="55"/> |
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Muamm4&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muamm4&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+  <img height="150em" src="https://bad-apple-github-readme.vercel.app/api?username=Muamm4&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff"/>
+  <img height="150em" src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=Muamm4&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff"/>
+  <img height="150em" src="https://streak-stats.demolab.com/?user=Muamm4&count_private=true&theme=blue-green&title_color=00b3ff"/>
 </div>
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
