@@ -1,3 +1,6 @@
+
+<img src="https://github-profile-trophy.vercel.app/?username=Muamm4&theme=onedark&title=Commits,Repositories,MultipleLang" alt="GitHub Trophies" />
+
 # Hi... I'm Murilo  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
 - 👩🏾‍💻 Fullstack Laravel Developer
@@ -45,8 +48,6 @@ Join me on Telegram, where I share insights, victories, and even the occasional 
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Muamm4&title=Commits,Repositories,MultipleLang&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div align="center">
   <img height="250em" src="https://streak-stats.demolab.com/?user=Muamm4&count_private=true&theme=blue-green&title_color=00b3ff"/>
