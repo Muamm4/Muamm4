@@ -3,9 +3,9 @@
 
 # Hi... I'm Murilo  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
-👩🏾‍💻 Fullstack Laravel Developer
-💭 Learning Flutter And React Native;
-🎨 Fun fact: I like to read, play RPG games, and Developer on my free time 
+- 👩🏾‍💻 Fullstack Laravel Developer
+- 💭 Learning Flutter And React Native;
+- 🎨 Fun fact: I like to read, play RPG games, and Developer on my free time 
 
 ### Social media: 📡    
 Join me on Telegram, where I share insights, victories, and even the occasional setback. 
@@ -16,7 +16,7 @@ Join me on Telegram, where I share insights, victories, and even the occasional 
 
 ### Languages:
 | PHP | JS | TS | 
-|:----------:|:----------:|:----------:|:----------:|
+|:----------:|:----------:|:----------:|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP"  alt="PHP" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="55" height="55"/> |
 
 ### Data Manipulation
