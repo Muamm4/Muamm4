@@ -10,7 +10,7 @@
 ### Social media: 📡    
 Join me on Telegram, where I share insights, victories, and even the occasional setback. 
 
-[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/muriloamaral4)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/muamm4)
 
 ## Languages and Tools 
 
