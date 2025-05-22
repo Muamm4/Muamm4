@@ -1,6 +1,4 @@
 
-<img src="https://github-profile-trophy.vercel.app/?username=Muamm4&theme=onedark&title=Commits,Repositories,MultipleLang" alt="GitHub Trophies" />
-
 # Hi... I'm Murilo  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
 - 👩🏾‍💻 Fullstack Laravel Developer
@@ -11,6 +9,8 @@
 Join me on Telegram, where I share insights, victories, and even the occasional setback. 
 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/muamm4)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muriloamaciel/)
+
 
 ## Languages and Tools 
 
