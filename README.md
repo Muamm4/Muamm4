@@ -5,11 +5,11 @@
 <h1 align="center">Murilo Amaral</h1>
 
 <p align="center">
-  <b>Laravel × React × AI</b>
+  <b>Laravel × React × Go × AI</b>
 </p>
 
 <p align="center">
-  Building full-stack SaaS applications with Laravel, React (Inertia), and modern DevOps. Passionate about AI-assisted development and agentic coding workflows.
+  Building full-stack SaaS applications with Laravel, React (Inertia), and modern DevOps. Passionate about AI-assisted development and agentic coding workflows. Currently learning <b>Go</b> for microservices.
 </p>
 
 ---
@@ -64,7 +64,7 @@
 <h2>⚡ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,react,js,ts,nodejs,python,nextjs,vue,mysql,postgres,sqlite,git,docker,postman" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=go,php,laravel,react,js,ts,nodejs,python,nextjs,vue,mysql,postgres,sqlite,git,docker,postman" alt="Tech Stack" />
 </p>
 
 ---
